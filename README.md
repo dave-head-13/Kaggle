@@ -1,2 +1,2 @@
-# Kaggle
-Data Science Projects
+# Titanic Classification Project
+In this project I will be exloring the Titantic Dataset in Kaggle with the main to goal being to compare two Classification Algorithms: Logistic Regression & Artificial Neural Networks. Before I apply any machine learning Algorithms I will be performing some Exploratory Data Analysis using Pandas and Seaborn. Then we will attempt to select some of the most relevant features and also consider engineering new ones if necessary. Finally I will use a Logistic regression approach and compare it's accuracy to Artificial Neural Networks.
